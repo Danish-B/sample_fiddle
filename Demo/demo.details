@@ -1,0 +1,10 @@
+Everything before --- is not parsed
+
+---
+name: Demo Name
+description: sample demo sync
+authors:
+  - Danish
+...
+
+Everything after the line with ... will not be parsed
